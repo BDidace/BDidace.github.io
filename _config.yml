@@ -3,9 +3,10 @@ logo: "/images/89771937_1008008266267058_9115681302480158720_n.jpg?raw=true" # y
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Studies Information and Communication Technology at KTH Royal Institute of Technology in Stockholm. 
   <br><br>
-  E-mail: bmb@kth.se 
+  <a href="https://github.com/BDidace">View My GitHub Profile</a>  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  E-mail: bmb@kth.se
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
